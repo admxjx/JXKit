@@ -130,8 +130,8 @@ static NSString *const SBStyle2 = @"SBStyle2";
                     @{JXButtonName:@"样式:JXStatusBarStyleSuccess", JXButtonInfo:@"持续: 2s", JXNotificationText:@"Success!"},
                     @{JXButtonName:@"样式:JXStatusBarStyleDark", JXButtonInfo:@"持续: 2s", JXNotificationText:@"Dark：。。。。"},
                     @{JXButtonName:@"样式:JXStatusBarStyleMatrix", JXButtonInfo:@"持续: 2s", JXNotificationText:@"Matrix"}],
-                  @[@{JXButtonName:@"自定义样式:style 1", JXButtonInfo:@"持续: 4s, 动画效果:JXStatusBarAnimationTypeFade", JXNotificationText:@"Oh, I love it!"},
-                    @{JXButtonName:@"自定义样式:style 2", JXButtonInfo:@"持续: 4s, 动画效果:JXStatusBarAnimationTypeBounce", JXNotificationText:@"Level up!"}]
+                  @[@{JXButtonName:@"自定义样式:style 1", JXButtonInfo:@"持续: 4s, 动画效果:JXStatusBarAnimationTypeFade", JXNotificationText:@"你好！"},
+                    @{JXButtonName:@"自定义样式:style 2", JXButtonInfo:@"持续: 4s, 动画效果:JXStatusBarAnimationTypeBounce", JXNotificationText:@"我是admxjx!"}]
                 ];
     }
     return _data;
